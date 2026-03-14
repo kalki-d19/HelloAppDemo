@@ -9,6 +9,6 @@ public class App {
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
         int a = 10;
-        int b = 10;
+        int b = 10; 
     }
 }
