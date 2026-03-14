@@ -8,6 +8,6 @@ public class App {
 
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
-        System.out.println("Code for UC2");
+        int a  = 10;
     }
 }
