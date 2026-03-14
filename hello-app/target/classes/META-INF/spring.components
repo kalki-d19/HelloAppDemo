@@ -1,4 +1,2 @@
-com.bridgelabz.hello-app.App=org.springframework.stereotype.Component
-com.bridgelabz.hello-app.GreetingController=org.springframework.stereotype.Component
 com.bridgelabz.hello_app.App=org.springframework.stereotype.Component
 com.bridgelabz.hello_app.GreetingController=org.springframework.stereotype.Component
