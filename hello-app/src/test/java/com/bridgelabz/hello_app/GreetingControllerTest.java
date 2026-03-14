@@ -1,4 +1,4 @@
-package com.bridgelabz.hello-app;
+package com.bridgelabz.hello_app;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;

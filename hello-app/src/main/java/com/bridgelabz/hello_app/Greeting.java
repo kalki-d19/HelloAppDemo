@@ -1,4 +1,4 @@
-package com.bridgelabz.hello-app;
+package com.bridgelabz.hello_app;
 
 public class Greeting {
 
